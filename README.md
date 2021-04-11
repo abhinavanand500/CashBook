@@ -18,7 +18,7 @@
     ```bash
        npm start
     ```
-
+5. Download expo app in your mobile and scan the QR code shown in terminal
 
 
 # This is a Home Page.
